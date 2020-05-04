@@ -1,4 +1,4 @@
-// repeat
+// repeat method
 // paint Christmas tree
 
 var star = '#';
