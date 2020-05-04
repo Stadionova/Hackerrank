@@ -22,3 +22,4 @@ function compareTriplets(arrFirst, arrSecond) {
 }
 
 function compareTriplets(arrFirst, arrSecond);
+console.log('test');
